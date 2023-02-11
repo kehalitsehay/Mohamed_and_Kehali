@@ -1,2 +1,2 @@
 # Mohamed_and_Kehali
-Microverse Trial Project
+This a microverse trial project on html/css challenge. 
